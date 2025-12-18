@@ -1,0 +1,27 @@
+base_currency: USD, amount: 3.0, target_currency: EUR, result: 2.919
+base_currency: USD, amount: 3.0, target_currency: EUR, result: 2.919
+base_currency: EUR, amount: 1.0, target_currency: USD, result: 1.03
+base_currency: USD, target_currency: EUR, amount: 33.0, result: 32.109
+base_currency: NPR, target_currency: EUR, amount: 200.0, result: 1.402
+base_currency: USD, target_currency: EUR, amount: 2.0, result: 1.946
+base_currency: USD, target_currency: EUR, amount: 1.0, result: 0.973
+base_currency: USD, target_currency: EUR, amount: 1.0, result: 0.973
+Live Conversion - Base_Currency: USD, Target_Currency: EUR, Amount: 1.0, Converted_Amount: 0.9733501652, Timestamp: 2025-01-19 04:13:41
+Live Conversion - Base_Currency: USD, Target_Currency: EUR, Amount: 45.0, Converted_Amount: 43.800757434, Timestamp: 2025-01-19 04:13:55
+Historical Conversion - Date: 2025-01-12, Base_Currency: USD, Target_Currency: EUR, Rate: 0.9759201277
+Historical Conversion - Date: 2025-01-13, Base_Currency: USD, Target_Currency: EUR, Rate: 0.9742101771
+Historical Conversion - Date: 2025-01-14, Base_Currency: USD, Target_Currency: EUR, Rate: 0.9702701199
+Live Conversion - Base_Currency: USD, Target_Currency: EUR, Amount: 4.0, Converted_Amount: 3.8934006608, Timestamp: 2025-01-19 04:20:52
+Live Conversion - Base_Currency: USD, Target_Currency: EUR, Amount: 4.0, Converted_Amount: 3.8934006608, Timestamp: 2025-01-19 04:21:31
+Live Conversion - Base_Currency: USD, Target_Currency: EUR, Amount: 2.0, Converted_Amount: 1.9467003304, Timestamp: 2025-01-19 04:24:47.117187
+Historical Conversion - Date: 2025-01-12, Rate: 0.9759201277, Base Currency: USD, Target Currency: EUR
+Historical Conversion - Date: 2025-01-13, Rate: 0.9742101771, Base Currency: USD, Target Currency: EUR
+Historical Conversion - Date: 2025-01-14, Rate: 0.9702701199, Base Currency: USD, Target Currency: EUR
+Live Conversion - Base_Currency: USD, Target_Currency: EUR, Amount: 2.0, Converted_Amount: 1.9467003304, Timestamp: 2025-01-19 04:25:04.661290
+Live Conversion - Base_Currency: USD, Target_Currency: EUR, Amount: 5.0, Converted_Amount: 4.866750826, Timestamp: 2025-01-19 13:07:02.183743
+Live Conversion - Base_Currency: USD, Target_Currency: EUR, Amount: 5.0, Converted_Amount: 4.866750826, Timestamp: 2025-01-19 13:07:09.706044
+Historical Conversion - Date: 2025-01-12, Rate: 0.9759201277, Base Currency: USD, Target Currency: EUR
+Historical Conversion - Date: 2025-01-13, Rate: 0.9742101771, Base Currency: USD, Target Currency: EUR
+Historical Conversion - Date: 2025-01-14, Rate: 0.9702701199, Base Currency: USD, Target Currency: EUR
+Historical Conversion - Date: 2025-01-15, Rate: 0.9712801131, Base Currency: USD, Target Currency: EUR
+Live Conversion - Base_Currency: USD, Target_Currency: EUR, Amount: 1.0, Converted_Amount: 0.9733501652, Timestamp: 2025-01-19 13:19:29.787114
